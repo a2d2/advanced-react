@@ -18,7 +18,7 @@ const UseStateGotcha = () => {
   return (
     <div>
       <h1>{value}</h1>
-      <button className='btn' onClick={handleClick}>
+      <button className="btn" onClick={handleClick}>
         increase
       </button>
     </div>
